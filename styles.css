@@ -119,7 +119,7 @@ a {
 .hero-title {
     font-size: clamp(3rem, 6vw, 5.8rem);
     line-height: .98;
-    letter-spacing: -.065em;
+    letter-spacing: -.055em;
     font-weight: 600;
     margin: 22px 0;
     font-family: arial;
